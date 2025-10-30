@@ -20,4 +20,4 @@ scripts and other project details. Orders appear as assigned
 projects in the labeling platform, enabling artists to view them,
 upload language-specific audio, and track milestone progress
 7. Awarded "Innovator of the Month" for May for outstanding
-contributions — View Certificate
+contributions
